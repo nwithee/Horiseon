@@ -6,4 +6,4 @@ Description:  This website was refactored to follow accessibility standards, opt
 Link to deployed site: https://nwithee.github.io/Horiseon/#social-media-marketing
 
 
-Screenshot: ![screenshot] (/assets/images/Screen_Shot.png)
+Screenshot: https://raw.githubusercontent.com/nwithee/Horiseon/main/assets/images/Screen_Shot.png
